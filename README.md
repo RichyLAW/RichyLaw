@@ -10,6 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichyLAW&theme=radical)
+
 
 ### 🚀 INFO
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  

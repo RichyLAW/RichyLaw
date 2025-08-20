@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=I+Love+❤️;Blender;Godot;Unreal" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=I+Love+❤️+Blender+Godot+Unreal" />
 </p>
 
 ### 🛠️ I use

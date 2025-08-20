@@ -20,7 +20,7 @@
 - ✨ Fun Fact: I have never ever drank any cofee or energy drink
 - 🎮 I play: **RTS, FPS, Sandbox, TD**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=I+Love+❤️+Blender+Godot+Unreal" />
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -48,10 +48,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichyLAW&theme=radical" height="180" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ### 📫 Contct me
 - 👾Discord **richy5963**
----
+  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ⭐️ _"Code, Create, Conquer!"_

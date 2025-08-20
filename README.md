@@ -58,3 +58,6 @@
 ---
 
 ⭐️ _"Code, Create, Conquer!"_
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+

@@ -12,7 +12,7 @@
 - 🕹️ I love **Godot**, **Unreal Engine** & **Blender**  
 - 🌱 I am learning: **.NET, Web APIs & Cloud**  
 - ✨ Fun Fact: I have never ever drank any cofee or energy drink
-- 🎮 I play: RTS, FPS, Sandbox, TD
+- 🎮 I play: **RTS, FPS, Sandbox, TD**
 
 ---
 

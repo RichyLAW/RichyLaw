@@ -44,4 +44,9 @@
 - 👾Discord **richy5963**
 ---
 
+![Coffee](https://img.shields.io/badge/Coffee-%E2%98%95-blue)
+![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)
+![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%A6-purple)
+
+
 ⭐️ _"Code, Create, Conquer!"_

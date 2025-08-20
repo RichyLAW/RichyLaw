@@ -10,9 +10,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichyLAW&theme=radical)
-
-
 ### 🚀 INFO
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  
 - 💻 I do **Game & Application Development**  
@@ -47,6 +44,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RichyLAW&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichyLAW&theme=radical" height="180" />
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichyLAW&theme=radical)
 </div>
 
 ---

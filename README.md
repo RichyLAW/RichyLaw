@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, i am Richard Law</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, i am Richard Law</h1>
 
 [![Discord](https://img.shields.io/badge/Discord-Richy981-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/784709941607923722)
 ![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)

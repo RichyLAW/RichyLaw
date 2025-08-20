@@ -9,9 +9,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=👨‍💻+Tech+Student;🎮+Game+Dev;🚀+Always+Learning" />
-</p>
+
 
 ### 🚀 INFO
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  
@@ -22,6 +20,10 @@
 - 🎮 I play: **RTS, FPS, Sandbox, TD**
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=I+Love+❤️;Blender;Godot;Unreal" />
+</p>
 
 ### 🛠️ I use
 <div align="center">

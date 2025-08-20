@@ -8,7 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=👨‍💻+Tech+Student;🎮+Game+%26+App+Developer;🇦🇹+from+Austria;Always+Learning+New+Things!">
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 
 ### 🚀 INFO

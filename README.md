@@ -10,6 +10,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+
+
+ ____  _      _             _        ___        __
+|  _ \(_) ___| |__  _   _  | |      / \ \      / /
+| |_) | |/ __| '_ \| | | | | |     / _ \ \ /\ / / 
+|  _ <| | (__| | | | |_| | | |___ / ___ \ V  V /  
+|_| \_\_|\___|_| |_|\__, | |_____/_/   \_\_/\_/   
+                    |___/                         
+
+
+
 ### 🚀 INFO
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  
 - 💻 I do **Game & Application Development**  

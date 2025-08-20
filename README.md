@@ -58,6 +58,5 @@
 ---
 
 ⭐️ _"Code, Create, Conquer!"_
-
-![Matrix](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
+<img src="https://i.imgur.com/o7bYF5G.gif" width="100%">
 

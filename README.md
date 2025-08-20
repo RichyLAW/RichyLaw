@@ -11,16 +11,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
-<p>
- ____  _      _             _        ___        __<br>
-|  _ \(_) ___| |__  _   _  | |      / \ \      / /<br>
-| |_) | |/ __| '_ \| | | | | |     / _ \ \ /\ / / <br>
-|  _ <| | (__| | | | |_| | | |___ / ___ \ V  V /  <br>
-|_| \_\_|\___|_| |_|\__, | |_____/_/   \_\_/\_/   <br>
-                    |___/                         
-</p>
-
-
 ### 🚀 INFO
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  
 - 💻 I do **Game & Application Development**  

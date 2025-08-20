@@ -1,5 +1,9 @@
 <h1 align="center">Hello 👋, i am Richard Law</h1>
 
+![Coffee](https://img.shields.io/badge/Coffee-%E2%98%95-blue)
+![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)
+![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%A6-purple)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=👨‍💻+Tech+Student;🎮+Game+%26+App+Developer;🇦🇹+from+Austria;Always+Learning+New+Things!">
 </p>
@@ -43,10 +47,5 @@
 ### 📫 Contct me
 - 👾Discord **richy5963**
 ---
-
-![Coffee](https://img.shields.io/badge/Coffee-%E2%98%95-blue)
-![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)
-![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%A6-purple)
-
 
 ⭐️ _"Code, Create, Conquer!"_

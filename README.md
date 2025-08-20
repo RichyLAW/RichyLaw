@@ -39,18 +39,8 @@
 
 ---
 
-### 🎵 Aktuell höre ich
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=DEIN_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
-</p>
-
----
-
-### 📫 Kontakt
-- 📧 **richardlaw@email.com**
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 🌐 [Portfolio Website](https://www.deineseite.com)
-
+### 📫 Contct me
+- 👾Discord **richy5963**
 ---
 
 ⭐️ _"Code, Create, Conquer!"_

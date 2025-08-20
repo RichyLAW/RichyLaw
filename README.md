@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, i am Richard Law</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=DEINUSERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RichyLAW&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Coffee](https://img.shields.io/badge/Coffee-%E2%98%95-blue)
 ![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)

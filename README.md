@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, i am Richard Law</h1>
 
-![Coffee](https://img.shields.io/badge/Coffee-%E2%98%95-blue)
+[![Discord](https://img.shields.io/badge/Discord-Richy5963-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/DEINE_DISCORD_ID)
 ![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)
 ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%A6-purple)
 

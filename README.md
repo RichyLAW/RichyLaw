@@ -20,6 +20,11 @@
 
 ---
 
+##💾 Activ Projects
+-📅Checker [■■■■■■■■□□□□□□□□] 56%  
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF99&center=true&vCenter=true&lines=I+Love+❤️+Blender+Godot+Unreal" />
 </p>
@@ -58,5 +63,4 @@
 ---
 
 ⭐️ _"Code, Create, Conquer!"_
-<img src="https://i.imgur.com/o7bYF5G.gif" width="100%">
 

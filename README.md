@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, i am Richard Law</h1>
+<img src="https://github.com/RichyLAW/RichyLaw/blob/main/line.png" width="100%">
 
 [![Discord](https://img.shields.io/badge/Discord-Richy981-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/784709941607923722)
 ![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)

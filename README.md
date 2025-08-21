@@ -9,6 +9,7 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+![Red Line](https://img.shields.io/badge/-----------------------------------------------%20-red)
 
 
 ### 🚀 INFO

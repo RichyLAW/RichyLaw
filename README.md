@@ -17,6 +17,7 @@
 - 🌱 I am learning: **.NET, Web APIs & Cloud**  
 - ✨ Fun Fact: I have never ever drank any cofee or energy drink
 - 🎮 I play: **RTS, FPS, Sandbox, TD**
+- 📺 I watch: **Series, Movies, Anime**
 
 <img src="https://github.com/RichyLAW/RichyLaw/blob/main/line.png" width="100%">
 

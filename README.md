@@ -9,7 +9,7 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
+<img src="https://github.com/RichyLAW/RichyLaw/blob/main/line.png" width="100%">
 
 ### 🚀 INFO
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  

@@ -5,7 +5,7 @@
 ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%90%A6-purple)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7cfc00&center=true&vCenter=true&lines=👨‍💻+Tech+Student;🎮+Game+%26+App+Developer;🇦🇹+from+Austria;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=67DBAC&center=true&vCenter=true&lines=👨‍💻+Tech+Student;🎮+Game+%26+App+Developer;🇦🇹+from+Austria;Always+Learning+New+Things!">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7cfc00&center=true&vCenter=true&lines=I+Love+❤️+Blender+Godot+Unreal" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=67DBAC&center=true&vCenter=true&lines=I+Love+❤️+Blender+Godot+Unreal" />
 </p>
 
 ### 🛠️ I use

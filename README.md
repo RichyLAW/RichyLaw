@@ -24,6 +24,7 @@
 
 ### 💾 Activ Projects
 - 📅Checker [■■■■■□□□□□] 59%  
+- 📄TxT Noter [■■■■■■□□□□] 62%  
 
 <img src="https://github.com/RichyLAW/RichyLaw/blob/main/line.png" width="100%">
 

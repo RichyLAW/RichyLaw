@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, i am Richard Law</h1>
-<h2 align="center">aka Richard W.</h2>
+<p align="center">aka Richard W.</p>
 
 [![Discord](https://img.shields.io/badge/Discord-Richy981-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/784709941607923722)
 ![Gamer](https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-green)

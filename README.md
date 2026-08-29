@@ -15,8 +15,6 @@
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  
 - 💻 I do **Game & Application Development**  
 - 🕹️ I love **Godot**, **Unreal Engine** & **Blender**  
-- 🌱 I am learning: **.NET, Web APIs & Cloud**  
-- ✨ Fun Fact: I have never ever drank any cofee or energy drink
 - 🎮 I play: **RTS, FPS, Sandbox, TD**
 - 📺 I watch: **Series, Movies, Anime**
 
@@ -24,8 +22,7 @@
 
 
 ### 💾 Activ Projects
-- 📅Checker [■■■■■□□□□□] 59%  
-- 📄TxT Noter [■■■■■■□□□□] 62%  
+- 📄TxT Noter [■■■■■■□□□□] 62%  (on hold right now)
 
 <img src="https://github.com/RichyLAW/RichyLaw/blob/main/line.png" width="100%">
 

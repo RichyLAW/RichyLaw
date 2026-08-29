@@ -15,7 +15,7 @@
 - 🎓 I am a **Tech Student from Austria** 🇦🇹  
 - 💻 I do **Game & Application Development**  
 - 🕹️ I love **Godot**, **Unreal Engine** & **Blender**  
-- 🎮 I play: **RTS, FPS, Sandbox, TD**
+- 🎮 I play: **RTS, FPS, Sandbox, DnD**
 - 📺 I watch: **Series, Movies, Anime**
 
 <img src="https://github.com/RichyLAW/RichyLaw/blob/main/line.png" width="100%">
